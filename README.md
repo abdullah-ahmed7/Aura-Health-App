@@ -47,7 +47,6 @@ ModernHospital is a powerful yet easy-to-use web application designed to simplif
    - Create a database in SQL Server.
    - Run the `hospital.sql` script to initialize the schema.
    - Update the `conn_str` in `app.py` with your database connection details.
-   - Run `init_db.py` to populate initial data.
 4. **Start the application**:
    ```bash
    python app.py
